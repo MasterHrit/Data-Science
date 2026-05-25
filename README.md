@@ -30,7 +30,7 @@ This repository serves as a **learning portfolio**, covering everything from **P
 - Jupyter Notebook
 - Git & GitHub
 
-Python is widely used for data analysis, scientific computing, and machine learning due to its extensive ecosystem of libraries and readability. :contentReference[oaicite:1]{index=1}
+Python is widely used for data analysis, scientific computing, and machine learning due to its extensive ecosystem of libraries and readability.
 
 ---
 
@@ -48,7 +48,7 @@ Python is widely used for data analysis, scientific computing, and machine learn
 ### NumPy
 ### Pandas
 ### Visualization
-### EDA and Feature Engineering and Data Handling for 3 Real Use Case Datasets.
+### EDA, Feature Engineering and Data Handling for 3 Real Use Case Datasets.
     -   Red Wine Quality Dataset EDA
     -   Flight Price Data
     -   Google Play Store Insights EDA
