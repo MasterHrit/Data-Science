@@ -1,0 +1,10 @@
+Hello World!
+This is a new line.
+Append Operation Taking PlaceFirst Line 
+Second Line 
+Third Line 
+
+Append Operation Taking Place
+First Line 
+Second Line 
+Third Line 
