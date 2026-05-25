@@ -1,10 +1,3 @@
-# Data-Science
-- Contains Basic to Advance Python Data Structures and Assignments
-- EDA and Feature Engineering and Data Handling for 3 Real Use Case Datasets.
-    -   Red Wine Quality Dataset EDA
-    -   Flight Price Data
-    -   Google Play Store Insights EDA
-
 # Python and Data Science
 
 A structured repository documenting my journey in **Python, Data Science and Data Analytics** through hands-on coding, projects, exercises, and practical implementations.
@@ -54,7 +47,11 @@ Python is widely used for data analysis, scientific computing, and machine learn
 - Modules & Packages
 ### NumPy
 ### Pandas
-### Data Visualization
+### Visualization
+### EDA and Feature Engineering and Data Handling for 3 Real Use Case Datasets.
+    -   Red Wine Quality Dataset EDA
+    -   Flight Price Data
+    -   Google Play Store Insights EDA
 
 ---
 
